@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moralir/moralir.github.io.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/moralir/moralir.github.io.git/static/js/main.f07a9e5c.chunk.js",
+    "main.js.map": "/moralir/moralir.github.io.git/static/js/main.f07a9e5c.chunk.js.map",
+    "runtime-main.js": "/moralir/moralir.github.io.git/static/js/runtime-main.4a60b2c2.js",
+    "runtime-main.js.map": "/moralir/moralir.github.io.git/static/js/runtime-main.4a60b2c2.js.map",
+    "static/js/2.53551f25.chunk.js": "/moralir/moralir.github.io.git/static/js/2.53551f25.chunk.js",
+    "static/js/2.53551f25.chunk.js.map": "/moralir/moralir.github.io.git/static/js/2.53551f25.chunk.js.map",
+    "static/js/3.db675632.chunk.js": "/moralir/moralir.github.io.git/static/js/3.db675632.chunk.js",
+    "static/js/3.db675632.chunk.js.map": "/moralir/moralir.github.io.git/static/js/3.db675632.chunk.js.map",
+    "index.html": "/moralir/moralir.github.io.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/moralir/moralir.github.io.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.53551f25.chunk.js.LICENSE.txt": "/moralir/moralir.github.io.git/static/js/2.53551f25.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/moralir/moralir.github.io.git/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a60b2c2.js",
+    "static/js/2.53551f25.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f07a9e5c.chunk.js"
+  ]
+}
